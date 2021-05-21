@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://thallap.github.io/csb-8i87y/static/css/main.c78ee592.chunk.css",
+    "main.js": "https://thallap.github.io/csb-8i87y/static/js/main.1cd83ed6.chunk.js",
+    "main.js.map": "https://thallap.github.io/csb-8i87y/static/js/main.1cd83ed6.chunk.js.map",
+    "runtime-main.js": "https://thallap.github.io/csb-8i87y/static/js/runtime-main.20972927.js",
+    "runtime-main.js.map": "https://thallap.github.io/csb-8i87y/static/js/runtime-main.20972927.js.map",
+    "static/css/2.9c48f3ed.chunk.css": "https://thallap.github.io/csb-8i87y/static/css/2.9c48f3ed.chunk.css",
+    "static/js/2.73ae1c50.chunk.js": "https://thallap.github.io/csb-8i87y/static/js/2.73ae1c50.chunk.js",
+    "static/js/2.73ae1c50.chunk.js.map": "https://thallap.github.io/csb-8i87y/static/js/2.73ae1c50.chunk.js.map",
+    "index.html": "https://thallap.github.io/csb-8i87y/index.html",
+    "static/css/2.9c48f3ed.chunk.css.map": "https://thallap.github.io/csb-8i87y/static/css/2.9c48f3ed.chunk.css.map",
+    "static/css/main.c78ee592.chunk.css.map": "https://thallap.github.io/csb-8i87y/static/css/main.c78ee592.chunk.css.map",
+    "static/js/2.73ae1c50.chunk.js.LICENSE.txt": "https://thallap.github.io/csb-8i87y/static/js/2.73ae1c50.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20972927.js",
+    "static/css/2.9c48f3ed.chunk.css",
+    "static/js/2.73ae1c50.chunk.js",
+    "static/css/main.c78ee592.chunk.css",
+    "static/js/main.1cd83ed6.chunk.js"
+  ]
+}
